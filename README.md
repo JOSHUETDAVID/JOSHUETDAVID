@@ -25,4 +25,4 @@ desde la infraestructura y el hardening hasta el CI/CD.
   completo (SSH ed25519, UFW, fail2ban, systemd).
 
 ### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/TU-URL-REAL) · joshuetd@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joshuet-diaz-ruiz/) · joshuetd@gmail.com
