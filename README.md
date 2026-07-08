@@ -16,6 +16,8 @@ desde la infraestructura y el hardening hasta el CI/CD.
 - **Sistemas & redes:** Linux · systemd  · Cloudflare
 - **Lenguajes:** Python · Bash
 
+---
+
 ### 🚀 Proyectos destacados
 - **[finsight](https://github.com/JOSHUETDAVID/finsight)** — Pipeline DataOps
   (Python + Polars + PostgreSQL), dockerizado, con CI/CD e IaC (Terraform).
