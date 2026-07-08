@@ -26,5 +26,7 @@ desde la infraestructura y el hardening hasta el CI/CD.
 - **Hermes Agent** — agente de IA self-hosted en AWS Lightsail con hardening
   completo (SSH ed25519, UFW, fail2ban, systemd).
 
+---
+
 ### 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/joshuet-diaz-ruiz/) · joshuetd@gmail.com
