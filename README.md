@@ -19,7 +19,7 @@ desde la infraestructura y el hardening hasta el CI/CD.
 ### 🚀 Proyectos destacados
 - **[finsight](https://github.com/JOSHUETDAVID/finsight)** — Pipeline DataOps
   (Python + Polars + PostgreSQL), dockerizado, con CI/CD e IaC (Terraform).
-- **DocsLegalia** — SaaS en Google Cloud (Cloud Run + Vertex AI) con
+- [**DocsLegalia**](https://docsialegal.com/) — SaaS en Google Cloud (Cloud Run + Vertex AI) con
   Cloudflare WAF/CDN → A+ en seguridad, 100/100 PageSpeed.
 - **Hermes Agent** — agente de IA self-hosted en AWS Lightsail con hardening
   completo (SSH ed25519, UFW, fail2ban, systemd).
