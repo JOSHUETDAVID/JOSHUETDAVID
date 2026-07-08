@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Joshuet 👋
 
-<!--
-**JOSHUETDAVID/JOSHUETDAVID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Cloud Engineer
+Construyo, despliego y opero sistemas reales en AWS y GCP.
 
-Here are some ideas to get you started:
+Desarrollador con formación en sistemas y datos, en transición a DevOps/Cloud.
+Aprendo construyendo: opero cargas en producción de punta a punta —
+desde la infraestructura y el hardening hasta el CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tecnologías
+**Cloud:** AWS
+**IaC & CI/CD:** Terraform · GitHub Actions
+**Contenedores:** Docker · Docker Compose
+**Sistemas & redes:** Linux · systemd  · Cloudflare
+**Lenguajes:** Python · Bash
+
+### 🚀 Proyectos destacados
+- **[finsight](https://github.com/JOSHUETDAVID/finsight)** — Pipeline DataOps
+  (Python + Polars + PostgreSQL), dockerizado, con CI/CD e IaC (Terraform).
+- **DocsLegalia** — SaaS en Google Cloud (Cloud Run + Vertex AI) con
+  Cloudflare WAF/CDN → A+ en seguridad, 100/100 PageSpeed.
+- **Hermes Agent** — agente de IA self-hosted en AWS Lightsail con hardening
+  completo (SSH ed25519, UFW, fail2ban, systemd).
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/TU-URL-REAL) · joshuetd@gmail.com
