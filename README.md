@@ -10,11 +10,11 @@ desde la infraestructura y el hardening hasta el CI/CD.
 ---
 
 ### 🔧 Tecnologías
-**Cloud:** AWS
-**IaC & CI/CD:** Terraform · GitHub Actions
-**Contenedores:** Docker · Docker Compose
-**Sistemas & redes:** Linux · systemd  · Cloudflare
-**Lenguajes:** Python · Bash
+- **Cloud:** AWS
+- **IaC & CI/CD:** Terraform · GitHub Actions
+- **Contenedores:** Docker · Docker Compose
+- **Sistemas & redes:** Linux · systemd  · Cloudflare
+- **Lenguajes:** Python · Bash
 
 ### 🚀 Proyectos destacados
 - **[finsight](https://github.com/JOSHUETDAVID/finsight)** — Pipeline DataOps
