@@ -11,12 +11,12 @@ IA (Claude Code) para acelerar el desarrollo de algunos proyectos.
 ---
 
 ### 🔧 Tecnologías
--**Cloud:** AWS · GCP
--**IaC & CI/CD:** Terraform · GitHub Actions
--**GitOps:** ArgoCD
--**Contenedores:** Docker · Docker Compose
--**Sistemas & redes:** Linux · systemd · Cloudflare
--**Lenguajes:** Python · Bash
+- **Cloud:** AWS · GCP
+- **IaC & CI/CD:** Terraform · GitHub Actions
+- **GitOps:** ArgoCD
+- **Contenedores:** Docker · Docker Compose
+- **Sistemas & redes:** Linux · systemd · Cloudflare
+- **Lenguajes:** Python · Bash
 
 ### 🚀 Proyectos destacados
 - **[finsight](https://github.com/JOSHUETDAVID/finsight)** — Pipeline DataOps (Python + Polars + PostgreSQL), dockerizado, con CI/CD e IaC (Terraform).
