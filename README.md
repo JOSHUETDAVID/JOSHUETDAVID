@@ -12,9 +12,9 @@ IA (Claude Code) para acelerar el desarrollo de algunos proyectos.
 
 ### 🔧 Tecnologías
 - **Cloud:** AWS · GCP
+- **Orquestación:** Kubernetes · ArgoCD (GitOps)
 - **IaC & CI/CD:** Terraform · GitHub Actions
-- **GitOps:** ArgoCD
-- **Contenedores:** Docker · Docker Compose
+- **Contenedores:** Docker · Docker Compose · Amazon ECR
 - **Sistemas & redes:** Linux · systemd · Cloudflare
 - **Lenguajes:** Python · Bash
 
